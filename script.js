@@ -25,7 +25,9 @@ const images = [
         'https://s19.postimg.org/5wvy8w7cj/brian.jpg',
         'https://s19.postimg.org/ynsryyd6b/juin.jpg',
         'https://s19.postimg.org/n29vj4tv7/darryl.jpg',
-        'https://s19.postimg.org/iuf3adsfn/richard.jpg'
+        'https://s19.postimg.org/iuf3adsfn/richard.jpg',
+        'https://s19.postimg.org/44u95vq5v/sankar.jpg',
+        'https://s19.postimg.org/fv86n9iyb/eena2.png'
 	];
 
 const contents = ['Hi Superhero Friends!\n'+
@@ -33,7 +35,7 @@ const contents = ['Hi Superhero Friends!\n'+
             'Thank you for the support and encouragement you have provided me during my time here.\n'+
             'I have enjoyed my time here very much, and I will miss our daily interactions and working on projects with all of you.\n'+
             'Please do keep in touch. I can be reached at my personal email address (clementchin1989@outlook.my), or via my mobile/whatsApp @ +6019-6668903'+
-            'Again, thanks so much for your support!\n',
+            'Again, thanks so much for your support!',
     'Hi clement, thanks for everything. Thanks for help me so much. Appreciate it',
                 '再也不用迟回了。。。',
                 'You follow me in I follow you out',
@@ -58,7 +60,9 @@ const contents = ['Hi Superhero Friends!\n'+
                 '到生命的圆满。希望可以让您幸福与快乐。感恩谢谢您',
                 'May u be d great penguin spendin great life in ur great pole',
                 'Our days are short but it has been nice to meet you.\nWish you all the best in your future endeavors.',
-                'Hi Clement! \n\nI still remember my first day as an intern. I stepped into the room and I saw a big buff guy talking to someone else. \nI was like wow that guy is so big, must be someone very fierce one. \nWell, turn out that you\'re one of the nicest person I\'ve ever known! Haha, I thought you will be still here \nuntil I finish my internship but too bad, you will have to leave before me (NOOOOOOO). \nAnyway, I\'m really glad that I have met such an awesome person during my internship. \nThank you for all this while and I\'m sure I\'ll bump into you someday!'
+                'Hi Clement! \n\nI still remember my first day as an intern. I stepped into the room and I saw a big buff guy talking to someone else. \nI was like wow that guy is so big, must be someone very fierce one. \nWell, turn out that you\'re one of the nicest person I\'ve ever known! Haha, I thought you will be still here \nuntil I finish my internship but too bad, you will have to leave before me (NOOOOOOO). \nAnyway, I\'m really glad that I have met such an awesome person during my internship. \nThank you for all this while and I\'m sure I\'ll bump into you someday!',
+                'Thanks a lot for considering. Happy and memorable moments working with lovely team',
+                'I\'ll miss you <3'
                 ]
 
 var counter = 0;
