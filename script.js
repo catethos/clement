@@ -2,7 +2,7 @@
 
 const names = ['Clement Chin','Chai Shu Lee','Chin-Wen Chang','Caleb Foong','Ng Kean Chew','Sok Hong Kuan','Chan Sin Hui','Jeffery Wong',
                 'Lee Chiau Hung','Cyrus Wong','Ng Wen Ge','John Liew','Fong Jia Kang','Ah Lui','Tan Tong Sheng',
-                'Priscilla','Jeffrey Mah','Brian Koh','Yeoman Goh','Darryl','Richard'];
+                'Priscilla','Jeffrey Mah','Brian Koh','Yeoman Goh','Darryl','Richard', 'Sangkar', 'Eena'];
 
 const images = [
         'https://s19.postimg.org/c92damckz/clement.jpg',
